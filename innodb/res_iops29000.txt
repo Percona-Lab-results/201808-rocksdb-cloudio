@@ -1,0 +1,463 @@
+sysbench 1.0.15 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 72
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creasysbench 1.0.15 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 72
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 2 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 2 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 3 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 3 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 2 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: Thread initialization failed!
+sysbench 1.0.15 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 72
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 4 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 4 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 3 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 3 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 3 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 5 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 3 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+FATAL: unable to connect to MySQL server on socket '/tmp/mysql.sock', aborting...
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 2 times)
+FATAL: error 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+(last message repeated 2 times)
+FATAL: `thread_init' function failed: ./tpcc.lua:28: connection creation failed
+(last message repeated 5 times)
+FATAL: Thread initialization failed!
